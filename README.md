@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **balakrishnanfrmwr@gmail.com**
 
-- 📄 Know about my experiences [Have 1.5 years of experience in embedded systems working as a embedded product developer and Firmware developer in India. Currently I have completed my PG Diploma in embedded systems development from Conestoga College Canada.](Have 1.5 years of experience in embedded systems working as a embedded product developer and Firmware developer in India. Currently I have completed my PG Diploma in embedded systems development from Conestoga College Canada.)
+- 📄 Know about my experiences Have 1.5 years of experience in embedded systems working as a embedded product developer and Firmware developer in India. Currently I have completed my PG Diploma in embedded systems development from Conestoga College Canada.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
